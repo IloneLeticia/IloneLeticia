@@ -1,4 +1,4 @@
-![Meu banner](Abstract Technology Profile LinkedIn Banner_20260830_183443_0001.png)
+![Meu Screenshot_20260830-192734.Galeria.jpg)
 <div align="center">
 
 # Olá! Eu sou a Ilone Letícia 👋
