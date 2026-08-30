@@ -1,4 +1,11 @@
-![Meu Screenshot_20260830-192734.Galeria.jpg)
+<p align="center">
+  <img src="./Screenshot_20260830-192734.Galeria.jpg" alt="Banner do perfil">
+</p>
+
+<div align="center">
+
+# Olá! Eu sou a Ilone Letícia 👋
+
 <div align="center">
 
 # Olá! Eu sou a Ilone Letícia 👋
