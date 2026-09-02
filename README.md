@@ -6,10 +6,6 @@
 
 # Olá! Eu sou a Ilone Letícia 👋
 
-<div align="center">
-
-# Olá! Eu sou a Ilone Letícia 👋
-
 ### Desenvolvedora em formação • JavaScript • C# • Acessibilidade
 
 Construindo projetos, aprendendo na prática e tentando deixar a tecnologia
@@ -65,10 +61,13 @@ que desenvolvo.
 
 ## 📊 GitHub
 
-<div>
+### Olá! 👋
 
-  
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com<IloneLeticia>/<IloneLeticia>/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com<IloneLeticia>/<IloneLeticia>/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://githubusercontent.com<IloneLeticia>/<IloneLeticia>/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🌱 Atualmente
 
