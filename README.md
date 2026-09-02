@@ -62,11 +62,10 @@ que desenvolvo.
 ## 📊 GitHub
 
 ### Olá! 👋
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="snake animation" src="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IloneLeticia/IloneLeticia/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IloneLeticia/IloneLeticia/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/IloneLeticia/IloneLeticia/output/snake.svg">
 </picture>
 
 
