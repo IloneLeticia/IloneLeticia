@@ -6,7 +6,7 @@
 
 # Olá! Eu sou a Ilone Letícia 👋
 
-### Desenvolvedora em formação • JavaScript • C# • Acessibilidade
+### Desenvolvedora em formação • JavaScript • C# • SQL
 
 Construindo projetos, aprendendo na prática e tentando deixar a tecnologia
 mais acessível — inclusive para quem precisa de configurações visuais
@@ -18,11 +18,11 @@ específicas para conseguir navegar com conforto.
 
 ## 🧩 Sobre mim
 
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas na Puc-Minas
 - 🌐 Tenho estudado principalmente **JavaScript** e **C#**
-- ♿ Tenho um interesse especial por **acessibilidade visual**
+- ♿ Tenho um interesse especial por **algoritimos** e **aplicações web**
 - 🎨 Gosto de pensar em interfaces que sejam fáceis de ler, navegar e entender
-- 📚 Atualmente estou ampliando meus conhecimentos em desenvolvimento de software
+- 📚 Atualmente estou ampliando meus conhecimentos em desenvolvimento back-end e banco de dados SQL
 - 🚀 Meu objetivo é continuar transformando o que aprendo em projetos reais
 
 ---
@@ -31,18 +31,9 @@ específicas para conseguir navegar com conforto.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,cs,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,cs,html,css,git,github,vscode,mysql,visualstudio" />
 
 </div>
-
----
-
-## 📌 Projetos
-
-Aqui você pode encontrar projetos acadêmicos, exercícios e experiências
-desenvolvidas durante minha formação.
-
-> Estou sempre adicionando coisas novas conforme aprendo.
 
 ---
 
@@ -50,9 +41,9 @@ desenvolvidas durante minha formação.
 
 A acessibilidade visual é uma parte importante da forma como penso interfaces.
 
-Para mim, detalhes como **tamanho da fonte, espaçamento entre letras,
+Detalhes como **tamanho da fonte, espaçamento entre letras,
 contraste, organização das informações e legibilidade** fazem diferença
-na experiência de uso.
+na experiência de uso para mim e eu sei que para muitos outros também.
 
 Por isso, sempre que possível, tento levar esses aspectos para os projetos
 que desenvolvo.
@@ -61,7 +52,7 @@ que desenvolvo.
 
 ## 📊 GitHub
 
-### Olá! 👋
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IloneLeticia/IloneLeticia/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IloneLeticia/IloneLeticia/output/snake.svg">
@@ -72,9 +63,9 @@ que desenvolvo.
 ## 🌱 Atualmente
 
 ```text
-Aprendendo        → Desenvolvimento de software
+Aprendendo        → Desenvolvimento back end
 Praticando        → JavaScript e C#
-Explorando        → Acessibilidade e desenvolvimento web
+Explorando        → banco de dados e modelagem de processos
 Construindo       → Projetos para colocar conhecimento em prática
 ```
 
