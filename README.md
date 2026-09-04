@@ -1,4 +1,4 @@
-arrume o q taquebrado. quero espaço entre as divisões:
+lembrete: tenho que editar 3 sessoes
 
 
 ╭──────────.★..─╮
