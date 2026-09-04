@@ -153,16 +153,28 @@ Construindo       → Projetos para colocar conhecimento em prática
 
 <div align="center">
 
-<a href="https://github.com/IloneLeticia">
-  <img src="https://senior-shield-eight.vercel.app/">
+<a href="https://senior-shield-eight.vercel.app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IloneLeticia&repo=Senior_Shield&theme=tokyonight" alt="SeniorShield">
 </a>
 
-<a href="https://github.com/IloneLeticia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IloneLeticia&repo=Rayman-origins-wiki
-&theme=tokyonight">
+<a href="https://github.com/IloneLeticia/Rayman-origins-wiki">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IloneLeticia&repo=Rayman-origins-wiki&theme=tokyonight" alt="Rayman Origins Wiki">
+</a>
+
+<br><br>
+
+<a href="https://senior-shield-eight.vercel.app/">
+  🌐 <b>Ver SeniorShield online</b>
+</a>
+
+    
+
+<a href="https://github.com/IloneLeticia/Rayman-origins-wiki">
+  💻 <b>Ver Rayman Origins Wiki</b>
 </a>
 
 </div>
+
 ╰────── · · ꝯϱ · · ──────╯
 
 
