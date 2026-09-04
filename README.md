@@ -154,8 +154,7 @@ Construindo       → Projetos para colocar conhecimento em prática
 <div align="center">
 
 <a href="https://github.com/IloneLeticia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IloneLeticia&repo=Senior_Shield
-&theme=tokyonight">
+  <img src="https://senior-shield-eight.vercel.app/">
 </a>
 
 <a href="https://github.com/IloneLeticia">
