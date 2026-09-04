@@ -17,7 +17,7 @@ específicas para conseguir navegar com conforto.
 ---
 
 ## 🧩 Sobre mim
-
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/113.gif">
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas na Puc-Minas
 - 🌐 Tenho estudado principalmente **JavaScript** e **C#**
 - ♿ Tenho um interesse especial por **algoritimos** e **aplicações web**
@@ -47,9 +47,9 @@ na experiência de uso para mim e eu sei que para muitos outros também.
 
 Por isso, sempre que possível, tento levar esses aspectos para os projetos
 que desenvolvo.
-
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/8.gif">
 ---
-
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/423.gif">
 ## 📊 GitHub
 
 
