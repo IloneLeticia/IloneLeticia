@@ -72,9 +72,10 @@ Construindo       → Projetos para colocar conhecimento em prática
 
 ### Obrigada por visitar meu perfil!
 
-**Sempre aprendendo. Sempre construindo.**
+
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/250.gif">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/92.gif">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif">
 
+**Sempre aprendendo. Sempre construindo.**
 </div>
