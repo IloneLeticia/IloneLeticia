@@ -1,7 +1,9 @@
+
+╭──────────.★..─╮
 <p align="center">
   <img src="./Screenshot_20260830-192734.Galeria.jpg" alt="Banner do perfil">
 </p>
-
+╰─..★.──────────╯
 <div align="center">
 
 # Olá! Eu sou a Ilone Letícia <img src="https://emojis.slackmojis.com/emojis/images/1643515258/12797/meow_coffee.png?1643515258" width="30"/>
@@ -35,7 +37,9 @@ adicionar bio
 
 <br>
 ╰────── · · ꝯϱ · · ──────╯
----
+
+
+
 <br>
 ╭────── · · ꝯϱ · · ──────╮
 ## 🛠️ Tecnologias
@@ -52,8 +56,9 @@ adicionar bio
 
 </div>
 ╰────── · · ꝯϱ · · ──────╯
----
-<br>
+
+
+
 ╭────── · · ꝯϱ · · ──────╮
 ## ♿ Acessibilidade
 
@@ -68,12 +73,13 @@ que desenvolvo.
 
 <div align="center">
 
-### ♿ Tecnologia deve ser acessível.
+### ⋆.˚🫂༘⋆
 
 </div>
 ╰────── · · ꝯϱ · · ──────╯
----
-<br>
+
+
+
 ╭────── · · ꝯϱ · · ──────╮
 ## 📊 GitHub
 
@@ -93,11 +99,12 @@ que desenvolvo.
 
 </div>
 ╰────── · · ꝯϱ · · ──────╯
----
-<br>
+
+
+
 ╭────── · · ꝯϱ · · ──────╮
 
-## 🐍 Minhas contribuições
+## ꩜ Minhas contribuições
 
 <div align="center">
 
@@ -109,10 +116,13 @@ que desenvolvo.
 
 </div>
 ╰────── · · ꝯϱ · · ──────╯
----
+
+
+
+
 ╭────── · · ꝯϱ · · ──────╮
 
-## 🌱 Atualmente
+## .✦ ݁˖ Atualmente .✦ ݁˖
 
 <div align="center">
 
@@ -132,10 +142,12 @@ Explorando        → banco de dados e modelagem de processos
 Construindo       → Projetos para colocar conhecimento em prática
 ```
 ╰────── · · ꝯϱ · · ──────╯
----
+
+
+
 ╭────── · · ꝯϱ · · ──────╮
 
-## 🎮 Alguns dos meus projetos
+## ⋆.˚🦋༘⋆ Alguns dos meus projetos
 
 <div align="center">
 
@@ -151,8 +163,9 @@ Construindo       → Projetos para colocar conhecimento em prática
 
 </div>
 ╰────── · · ꝯϱ · · ──────╯
----
-<br>
+
+
+
 ╭────── · · ꝯϱ · · ──────╮
 
 ## 💭 Um pouco mais sobre mim
@@ -173,7 +186,7 @@ Construindo       → Projetos para colocar conhecimento em prática
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/92.gif" width="90">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="90">
 
-### ✨ Sempre aprendendo. Sempre construindo. ✨
+### ۫ ༄.° Sempre aprendendo. Sempre construindo. ;༊
 
 <br>
 
