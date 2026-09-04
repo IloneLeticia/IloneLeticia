@@ -34,8 +34,9 @@ adicionar bio
 * 🚀 Meu objetivo é continuar transformando o que aprendo em **projetos reais**
 
 <br>
-
+╰────── · · ꝯϱ · · ──────╯
 ---
+<br>
 ╭────── · · ꝯϱ · · ──────╮
 ## 🛠️ Tecnologias
 
@@ -50,8 +51,9 @@ adicionar bio
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio" />
 
 </div>
-
+╰────── · · ꝯϱ · · ──────╯
 ---
+<br>
 ╭────── · · ꝯϱ · · ──────╮
 ## ♿ Acessibilidade
 
@@ -69,8 +71,9 @@ que desenvolvo.
 ### ♿ Tecnologia deve ser acessível.
 
 </div>
-
+╰────── · · ꝯϱ · · ──────╯
 ---
+<br>
 ╭────── · · ꝯϱ · · ──────╮
 ## 📊 GitHub
 
@@ -89,8 +92,9 @@ que desenvolvo.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IloneLeticia&theme=tokyonight" width="95%">
 
 </div>
-
+╰────── · · ꝯϱ · · ──────╯
 ---
+<br>
 ╭────── · · ꝯϱ · · ──────╮
 
 ## 🐍 Minhas contribuições
@@ -104,7 +108,7 @@ que desenvolvo.
 </picture>
 
 </div>
-
+╰────── · · ꝯϱ · · ──────╯
 ---
 ╭────── · · ꝯϱ · · ──────╮
 
@@ -119,6 +123,7 @@ que desenvolvo.
 | Modelagem de processos |      CRUD      | Aplicações web |
 
 </div>
+<br>
 
 ```text
 Aprendendo        → Desenvolvimento back end
@@ -126,7 +131,7 @@ Praticando        → JavaScript e C#
 Explorando        → banco de dados e modelagem de processos
 Construindo       → Projetos para colocar conhecimento em prática
 ```
-
+╰────── · · ꝯϱ · · ──────╯
 ---
 ╭────── · · ꝯϱ · · ──────╮
 
@@ -145,8 +150,9 @@ Construindo       → Projetos para colocar conhecimento em prática
 </a>
 
 </div>
-
+╰────── · · ꝯϱ · · ──────╯
 ---
+<br>
 ╭────── · · ꝯϱ · · ──────╮
 
 ## 💭 Um pouco mais sobre mim
@@ -178,3 +184,4 @@ Construindo       → Projetos para colocar conhecimento em prática
 **Obrigada por visitar meu perfil!** 🐾
 
 </div>
+╰────── · · ꝯϱ · · ──────╯
