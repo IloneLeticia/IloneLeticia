@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Olá! Eu sou a Ilone Letícia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Olá! Eu sou a Ilone Letícia <img src="https://emojis.slackmojis.com/emojis/images/1643515258/12797/meow_coffee.png?1643515258" width="30"/>
 
 ### Desenvolvedora em formação • JavaScript • C# • SQL
 
