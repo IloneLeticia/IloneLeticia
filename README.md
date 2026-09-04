@@ -1,19 +1,22 @@
-
-╭──────────.★..─╮
 <p align="center">
   <img src="./Screenshot_20260830-192734.Galeria.jpg" alt="Banner do perfil">
 </p>
-╰─..★.──────────╯
+
 <div align="center">
+
+╭──────────.★..─╮
 
 # Olá! Eu sou a Ilone Letícia <img src="https://emojis.slackmojis.com/emojis/images/1643515258/12797/meow_coffee.png?1643515258" width="30"/>
 
 ### 💻 Desenvolvedora em formação • JavaScript • C# • SQL
 
-adicionar bio
+<p>
+  <i>Construindo projetos, aprendendo na prática e transformando ideias em código.</i>
+</p>
 
-
-<br>
+<p>
+  💻 <b>Code</b> • 🎨 <b>Design</b> • ♿ <b>Acessibilidade</b> • 📚 <b>Aprendizado</b>
+</p>
 
 <a href="https://github.com/IloneLeticia">
   <img src="https://img.shields.io/badge/GitHub-IloneLeticia-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -22,11 +25,19 @@ adicionar bio
   <img src="https://img.shields.io/badge/LinkedIn-Ilone%20Letícia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+╰─..★.──────────╯
+
 </div>
+
+<br><br>
+
+<div align="center">
 
 ╭────── · · ꝯϱ · · ──────╮
 
-## ✿  Sobre mim ✿ 
+## ✿ Sobre mim ✿
+
+</div>
 
 * 💻 Estudante de **Análise e Desenvolvimento de Sistemas na PUC-Minas**
 * 🌐 Tenho estudado principalmente **JavaScript** e **C#**
@@ -36,15 +47,20 @@ adicionar bio
 * 🚀 Meu objetivo é continuar transformando o que aprendo em **projetos reais**
 
 <br>
-╰────── · · ꝯϱ · · ──────╯
-
-
-
-<br>
-╭────── · · ꝯϱ · · ──────╮
-## 🛠️ Tecnologias
 
 <div align="center">
+
+╰────── · · ꝯϱ · · ──────╯
+
+</div>
+
+<br><br><br>
+
+<div align="center">
+
+╭────── · · ꝯϱ · · ──────╮
+
+## 🛠️ Tecnologias
 
 ### 💻 Linguagens & Desenvolvimento
 
@@ -54,59 +70,69 @@ adicionar bio
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio" />
 
-</div>
 ╰────── · · ꝯϱ · · ──────╯
 
+</div>
 
+<br><br><br>
+
+<div align="center">
 
 ╭────── · · ꝯϱ · · ──────╮
+
 ## ♿ Acessibilidade
+
+</div>
 
 A acessibilidade visual é uma parte importante da forma como penso interfaces.
 
-Detalhes como **tamanho da fonte, espaçamento entre letras,
-contraste, organização das informações e legibilidade** fazem diferença
-na experiência de uso para mim e eu sei que para muitos outros também.
+Detalhes como **tamanho da fonte, espaçamento entre letras, contraste, organização das informações e legibilidade** fazem diferença na experiência de uso para mim e eu sei que para muitos outros também.
 
-Por isso, sempre que possível, tento levar esses aspectos para os projetos
-que desenvolvo.
-
-<div align="center">
-
-### ⋆.˚🫂༘⋆
-
-</div>
-╰────── · · ꝯϱ · · ──────╯
-
-
-
-╭────── · · ꝯϱ · · ──────╮
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IloneLeticia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IloneLeticia&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
+Por isso, sempre que possível, tento levar esses aspectos para os projetos que desenvolvo.
 
 <br>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IloneLeticia&theme=tokyonight" width="95%">
+### ⋆.˚🫂༘⋆
 
-</div>
+<br>
+
 ╰────── · · ꝯϱ · · ──────╯
 
+</div>
 
+<br><br><br>
+
+<div align="center">
+
+╭────── · · ꝯϱ · · ──────╮
+
+## 📊 GitHub
+
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IloneLeticia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IloneLeticia&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IloneLeticia&theme=tokyonight" width="95%">
+
+╰────── · · ꝯϱ · · ──────╯
+
+</div>
+
+<br><br><br>
+
+<div align="center">
 
 ╭────── · · ꝯϱ · · ──────╮
 
 ## ꩜ Minhas contribuições
 
-<div align="center">
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IloneLeticia/IloneLeticia/output/snake-dark.svg">
@@ -114,17 +140,21 @@ que desenvolvo.
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/IloneLeticia/IloneLeticia/output/snake.svg">
 </picture>
 
-</div>
+<br><br>
+
 ╰────── · · ꝯϱ · · ──────╯
 
+</div>
 
+<br><br><br>
 
+<div align="center">
 
 ╭────── · · ꝯϱ · · ──────╮
 
 ## .✦ ݁˖ Atualmente .✦ ݁˖
 
-<div align="center">
+<br>
 
 |      🔎 Explorando     | 🛠️ Praticando | 🚀 Construindo |
 | :--------------------: | :------------: | :------------: |
@@ -132,8 +162,9 @@ que desenvolvo.
 |     Banco de dados     |       C#       |   Interfaces   |
 | Modelagem de processos |      CRUD      | Aplicações web |
 
-</div>
 <br>
+
+</div>
 
 ```text
 Aprendendo        → Desenvolvimento back end
@@ -141,46 +172,60 @@ Praticando        → JavaScript e C#
 Explorando        → banco de dados e modelagem de processos
 Construindo       → Projetos para colocar conhecimento em prática
 ```
+
+<div align="center">
+
 ╰────── · · ꝯϱ · · ──────╯
 
+</div>
 
+<br><br><br>
+
+<div align="center">
 
 ╭────── · · ꝯϱ · · ──────╮
 
 ## ⋆.˚🦋༘⋆ Alguns dos meus projetos
 
-<div align="center">
+<br>
 
-<a href="https://github.com/IloneLeticia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IloneLeticia&repo=Senior_Shield
-&theme=tokyonight">
+<a href="https://github.com/IloneLeticia/Senior_Shield">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IloneLeticia&repo=Senior_Shield&theme=tokyonight">
 </a>
 
-<a href="https://github.com/IloneLeticia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IloneLeticia&repo=Rayman-origins-wiki
-&theme=tokyonight">
+<a href="https://github.com/IloneLeticia/Rayman-origins-wiki">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IloneLeticia&repo=Rayman-origins-wiki&theme=tokyonight">
 </a>
 
-</div>
+<br><br>
+
 ╰────── · · ꝯϱ · · ──────╯
 
+</div>
 
+<br><br><br>
+
+<div align="center">
 
 ╭────── · · ꝯϱ · · ──────╮
 
 ## 💭 Um pouco mais sobre mim
 
+</div>
+
 ```text
-🧁 doces      → combustível
-🎧 Música     → companhia para programar
-💻 Código     → ferramenta para criar
-🎨 Design     → minha parte favorita
-📚 Estudos    → sempre em andamento
+🧁 Doces       → combustível
+🎧 Música      → companhia para programar
+💻 Código      → ferramenta para criar
+🎨 Design      → minha parte favorita
+📚 Estudos     → sempre em andamento
 ```
 
----
+<br>
 
 <div align="center">
+
+---
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/250.gif" width="90">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/92.gif" width="90">
@@ -196,5 +241,6 @@ Construindo       → Projetos para colocar conhecimento em prática
 
 **Obrigada por visitar meu perfil!** 🐾
 
-</div>
 ╰────── · · ꝯϱ · · ──────╯
+
+</div>
