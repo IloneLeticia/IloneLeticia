@@ -22,9 +22,9 @@ adicionar bio
 
 </div>
 
----
+╭────── · · ꝯϱ · · ──────╮
 
-## 🧩 Sobre mim
+## ✿  Sobre mim ✿ 
 
 * 💻 Estudante de **Análise e Desenvolvimento de Sistemas na PUC-Minas**
 * 🌐 Tenho estudado principalmente **JavaScript** e **C#**
@@ -36,7 +36,7 @@ adicionar bio
 <br>
 
 ---
-
+╭────── · · ꝯϱ · · ──────╮
 ## 🛠️ Tecnologias
 
 <div align="center">
@@ -52,7 +52,7 @@ adicionar bio
 </div>
 
 ---
-
+╭────── · · ꝯϱ · · ──────╮
 ## ♿ Acessibilidade
 
 A acessibilidade visual é uma parte importante da forma como penso interfaces.
@@ -71,7 +71,7 @@ que desenvolvo.
 </div>
 
 ---
-
+╭────── · · ꝯϱ · · ──────╮
 ## 📊 GitHub
 
 <div align="center">
@@ -91,6 +91,7 @@ que desenvolvo.
 </div>
 
 ---
+╭────── · · ꝯϱ · · ──────╮
 
 ## 🐍 Minhas contribuições
 
@@ -105,6 +106,7 @@ que desenvolvo.
 </div>
 
 ---
+╭────── · · ꝯϱ · · ──────╮
 
 ## 🌱 Atualmente
 
@@ -126,33 +128,34 @@ Construindo       → Projetos para colocar conhecimento em prática
 ```
 
 ---
+╭────── · · ꝯϱ · · ──────╮
 
 ## 🎮 Alguns dos meus projetos
 
 <div align="center">
 
 <a href="https://github.com/IloneLeticia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IloneLeticia&repo=SEU_REPOSITORIO_1&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IloneLeticia&repo=Senior_Shield
+&theme=tokyonight">
 </a>
 
 <a href="https://github.com/IloneLeticia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IloneLeticia&repo=SEU_REPOSITORIO_2&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IloneLeticia&repo=Rayman-origins-wiki
+&theme=tokyonight">
 </a>
 
 </div>
 
-> 💡 Substitua `SEU_REPOSITORIO_1` e `SEU_REPOSITORIO_2` pelos nomes dos seus repositórios.
-
 ---
+╭────── · · ꝯϱ · · ──────╮
 
 ## 💭 Um pouco mais sobre mim
 
 ```text
-☕ Café       → combustível
+🧁 doces      → combustível
 🎧 Música     → companhia para programar
 💻 Código     → ferramenta para criar
-🎨 Design     → parte da experiência
-♿ Acessibilidade → algo que quero levar para meus projetos
+🎨 Design     → minha parte favorita
 📚 Estudos    → sempre em andamento
 ```
 
