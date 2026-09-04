@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Olá! Eu sou a Ilone Letícia 👋
+# Olá! Eu sou a Ilone Letícia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### Desenvolvedora em formação • JavaScript • C# • SQL
 
