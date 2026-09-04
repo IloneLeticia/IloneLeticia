@@ -8,11 +8,8 @@
 
 ### 💻 Desenvolvedora em formação • JavaScript • C# • SQL
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7A5CFA&center=true&vCenter=true&width=600&lines=Construindo+projetos+na+prática;Aprendendo+um+pouco+todos+os+dias;Explorando+JavaScript%2C+C%23+e+SQL;Pensando+em+acessibilidade+e+usabilidade" alt="Typing SVG" />
+adicionar bio
 
-Construindo projetos, aprendendo na prática e tentando deixar a tecnologia
-mais acessível — inclusive para quem precisa de configurações visuais
-específicas para conseguir navegar com conforto.
 
 <br>
 
