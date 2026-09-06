@@ -1,13 +1,10 @@
-lembrete: tenho que editar 3 sessoes
 
-
-╭──────────.★..─╮
 <p align="center">
   <img src="./Screenshot_20260830-192734.Galeria.jpg" alt="Banner do perfil">
 </p>
-╰─..★.──────────╯
-<div align="center">
 
+<div align="center">
+╭──────────.★..─╮
 # Olá! Eu sou a Ilone Letícia <img src="https://emojis.slackmojis.com/emojis/images/1643515258/12797/meow_coffee.png?1643515258" width="30"/>
 
 ### 💻 Desenvolvedora em formação • JavaScript • C# • SQL
@@ -23,7 +20,7 @@ adicionar bio
 <a href="https://www.linkedin.com/in/ilone-letícia-9736612b7/">
   <img src="https://img.shields.io/badge/LinkedIn-Ilone%20Letícia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
+╰─..★.──────────╯
 </div>
 
 ╭────── · · ꝯϱ · · ──────╮
@@ -169,7 +166,7 @@ Construindo       → Projetos para colocar conhecimento em prática
 
     
 
-<a href="https://github.com/IloneLeticia/Rayman-origins-wiki">
+<a href="https://raymanoriginswiki.vercel.app/">
   💻 <b>Ver Rayman Origins Wiki</b>
 </a>
 
@@ -195,9 +192,9 @@ Construindo       → Projetos para colocar conhecimento em prática
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/250.gif" width="90">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/92.gif" width="90">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="90">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/333.gif" width="90">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/222.gif" width="90">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/111.gif" width="90">
 
 ### ۫ ༄.° Sempre aprendendo. Sempre construindo. ;༊
 
