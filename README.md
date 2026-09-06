@@ -2,9 +2,9 @@
 <p align="center">
   <img src="./Screenshot_20260830-192734.Galeria.jpg" alt="Banner do perfil">
 </p>
-
-<div align="center">
 ╭──────────.★..─╮
+<div align="center">
+
 # Olá! Eu sou a Ilone Letícia <img src="https://emojis.slackmojis.com/emojis/images/1643515258/12797/meow_coffee.png?1643515258" width="30"/>
 
 ### 💻 Desenvolvedora em formação • JavaScript • C# • SQL
