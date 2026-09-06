@@ -151,11 +151,11 @@ Construindo       → Projetos para colocar conhecimento em prática
 <div align="center">
 
 <a href="https://senior-shield-eight.vercel.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IloneLeticia&repo=Senior_Shield&theme=tokyonight" alt="SeniorShield">
+  <img src="./Screenshot_20260906-132447.Chrome.png">
 </a>
 
 <a href="https://github.com/IloneLeticia/Rayman-origins-wiki">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IloneLeticia&repo=Rayman-origins-wiki&theme=tokyonight" alt="Rayman Origins Wiki">
+  <img src="./Screenshot_20260906-132447.Chrome.png>
 </a>
 
 <br><br>
