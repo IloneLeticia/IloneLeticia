@@ -148,15 +148,6 @@ Construindo       → Projetos para colocar conhecimento em prática
 
 ## ⋆.˚🦋༘⋆ Alguns dos meus projetos
 
-<div align="center">
-
-<a href="https://senior-shield-eight.vercel.app/">
-  <img src="./Screenshot_20260906-132447.Chrome.png">
-</a>
-
-<a href="https://github.com/IloneLeticia/Rayman-origins-wiki">
-  <img src="./Screenshot_20260906-132447.Chrome.png>
-</a>
 
 <br><br>
 
@@ -167,7 +158,7 @@ Construindo       → Projetos para colocar conhecimento em prática
     
 
 <a href="https://raymanoriginswiki.vercel.app/">
-  💻 <b>Ver Rayman Origins Wiki</b>
+    🦑 <b> Ver Rayman Origins Wiki</b>
 </a>
 
 </div>
